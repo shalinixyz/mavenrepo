@@ -1,9 +1,9 @@
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Action\CreateServlet.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Action\RegisterServlet.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Action\LoginServlet.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Action\WithdrwaServlet.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Operation\Checkaccno.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Action\logoutservlet.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Action\Check_balance.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Service\DBconnectServlet.java
-F:\core java\BankApplication2\src\com\mccoy\bankDemo\Action\DepositServlet.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Action\CreateServlet.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Action\RegisterServlet.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Action\logoutservlet.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Operation\Checkaccno.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Service\DBconnectServlet.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Action\LoginServlet.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Action\DepositServlet.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Action\Check_balance.java
+C:\Users\Deepa\git\mavenrepo\BankApplication2\src\com\mccoy\bankDemo\Action\WithdrwaServlet.java
